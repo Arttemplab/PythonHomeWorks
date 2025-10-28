@@ -1,6 +1,5 @@
 #Write a program that asks the answer for a mathematical expression,
-# checks whether the user is right or wrong,
-# and then responds with a message accordingly.
+# checks whether the user is right or wrong, and then responds with a message accordingly.
 
 math_expr = '2+2*2'
 correct_answer = 6
